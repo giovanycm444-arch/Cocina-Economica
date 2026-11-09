@@ -1,0 +1,7 @@
+{
+  "name": "Cocina Express - Punto de Venta & Monitor",
+  "description": "PWA móvil ultra rápida para cocinas económicas. Registro de comandas en menos de 10 segundos, calculadora de cambio express y monitoreo en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
